@@ -21,5 +21,8 @@ EditorBuildSettings:
     path: Assets/Top-Down Shooter Template (Netcode, Lobby, Relay)/Scenes/Demo/Demo.unity
     guid: 251687c33209d174787ccbfd0a658bf0
   m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 315125c337e63294fa6582f65d2eece0, type: 2}
     com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 4b7108e2b10f97842add07dc712c61f6, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 114eeeb85f771574c800efbe13cd7ffe, type: 2}
   m_UseUCBPForAssetBundles: 0

@@ -4,6 +4,7 @@ namespace HEAVYART.TopDownShooter.Netcode
     {
         Pistol,
         Rifle,
-        Shotgun
+        Shotgun,
+        Sword
     }
 }
